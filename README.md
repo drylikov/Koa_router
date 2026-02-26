@@ -242,4 +242,3 @@ with [npm](https://npmjs.org):
 npm test
 ```
 
-
